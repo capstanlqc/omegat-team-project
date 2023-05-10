@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <omegat>
     <project version="1.0">
+        <repositories>
+            <repository type="git" url="https://github.com/briacp/omegat-team-project.git">
+                <mapping local="/" repository="/"/>
+            </repository>
+        </repositories>
         <source_dir>__DEFAULT__</source_dir>
         <source_dir_excludes>
             <mask>**/.svn/**</mask>
@@ -14,7 +19,7 @@
             <mask>**/.DS_Store</mask>
             <mask>**/~$*</mask>
         </source_dir_excludes>
-        <target_dir>__DEFAULT__</target_dir>
+        <target_dir>__DEFAULT__</target_dir>a
         <tm_dir>__DEFAULT__</tm_dir>
         <glossary_dir>__DEFAULT__</glossary_dir>
         <glossary_file>__DEFAULT__</glossary_file>
