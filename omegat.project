@@ -2,7 +2,7 @@
 <omegat>
     <project version="1.0">
         <repositories>
-            <repository type="git" url="https://github.com/briacp/omegat-team-project.git">
+            <repository type="git" url="https://github.com/capstanlqc/omegat-team-project.git">
                 <mapping local="/" repository="/"/>
             </repository>
         </repositories>
