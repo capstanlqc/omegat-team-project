@@ -28,7 +28,7 @@
         <remove_tags>false</remove_tags>
         <external_command></external_command>
         <repositories>
-            <repository type="git" url="https://github.com/capstanlqc/omegat-team-project.git">
+            <repository type="git" url="https://github.com/capstanlqc/ticket_1164_test_omt.git">
                 <mapping local="/" repository="/"/>
             </repository>
         </repositories>
