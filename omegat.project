@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <omegat>
     <project version="1.0">
-        <repositories>
-            <repository type="git" url="https://github.com/capstanlqc/omegat-team-project.git">
-                <mapping local="/" repository="/"/>
-            </repository>
-        </repositories>
         <source_dir>__DEFAULT__</source_dir>
         <source_dir_excludes>
             <mask>**/.svn/**</mask>
@@ -24,8 +19,6 @@
         <glossary_dir>__DEFAULT__</glossary_dir>
         <glossary_file>__DEFAULT__</glossary_file>
         <dictionary_dir>__DEFAULT__</dictionary_dir>
-        <export_tm_dir>__DEFAULT__</export_tm_dir>
-        <export_tm_levels>omegat level1 level2</export_tm_levels>
         <source_lang>en</source_lang>
         <target_lang>fr</target_lang>
         <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
@@ -34,5 +27,10 @@
         <support_default_translations>true</support_default_translations>
         <remove_tags>false</remove_tags>
         <external_command></external_command>
+        <repositories>
+            <repository type="git" url="https://github.com/capstanlqc/omegat-team-project.git">
+                <mapping local="/" repository="/"/>
+            </repository>
+        </repositories>
     </project>
 </omegat>
