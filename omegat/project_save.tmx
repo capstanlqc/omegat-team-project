@@ -5,28 +5,11 @@
   <body>
 <!-- Default translations -->
     <tu>
-      <prop type="x-auto">auto</prop>
-      <tuv lang="en">
-        <seg>Oyster Shells</seg>
-      </tuv>
-      <tuv lang="fr" changeid="from-git-auto" changedate="20230503T143548Z" creationid="souto" creationdate="20230503T143548Z">
-        <seg>Coquilles d'huitres</seg>
-      </tuv>
-    </tu>
-    <tu>
       <tuv lang="en">
         <seg>The oyster</seg>
       </tuv>
-      <tuv lang="fr" changeid="briacp" changedate="20230530T204346Z" creationid="briacp" creationdate="20230523T213016Z">
-        <seg>xxThe oyster</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>This is an oyster shell</seg>
-      </tuv>
-      <tuv lang="fr" changeid="briacp" changedate="20230523T213047Z" creationid="briacp" creationdate="20230523T213047Z">
-        <seg>C'est une coquille d'huître</seg>
+      <tuv lang="fr" changeid="briac" changedate="20230530T205122Z" creationid="briacp" creationdate="20230523T213016Z">
+        <seg>The oyster</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
