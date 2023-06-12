@@ -1,25 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
-<tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en"/>
-  <body>
-<!-- Default translations -->
-    <tu>
-      <tuv lang="en">
-        <seg>Oyster Shells</seg>
-      </tuv>
-      <tuv lang="fr" changeid="briacp" changedate="20230603T185444Z" creationid="briacp" creationdate="20230603T185444Z">
-        <seg>[FZ]Coquilles d'huitres</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The oyster</seg>
-      </tuv>
-      <tuv lang="fr" changeid="briac" changedate="20230530T205122Z" creationid="briacp" creationdate="20230523T213016Z">
-        <seg>The oyster</seg>
-      </tuv>
-    </tu>
-<!-- Alternative translations -->
-  </body>
+<tmx version="1.1">&#xd;
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_dev" segtype="sentence" srclang="en"/>&#xd;
+  <body>&#xd;
+<!-- Default translations -->&#xd;
+    <tu>&#xd;
+      <tuv lang="en">&#xd;
+        <seg>The oyster</seg>&#xd;
+      </tuv>&#xd;
+      <tuv lang="fr" changeid="briac" changedate="20230530T205122Z" creationid="briacp" creationdate="20230523T213016Z">&#xd;
+        <seg>The oyster</seg>&#xd;
+      </tuv>&#xd;
+    </tu>&#xd;
+<!-- Alternative translations -->&#xd;
+  </body>&#xd;
 </tmx>
