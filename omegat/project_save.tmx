@@ -5,15 +5,6 @@
   <body>&#xd;
 <!-- Default translations -->&#xd;
     <tu>&#xd;
-      <prop type="x-auto">auto</prop>&#xd;
-      <tuv lang="en">&#xd;
-        <seg>Oyster Shells</seg>&#xd;
-      </tuv>&#xd;
-      <tuv lang="fr" changeid="from-git-auto" changedate="20230503T143548Z" creationid="souto" creationdate="20230503T143548Z">&#xd;
-        <seg>Coquilles d'huitres</seg>&#xd;
-      </tuv>&#xd;
-    </tu>&#xd;
-    <tu>&#xd;
       <tuv lang="en">&#xd;
         <seg>The oyster</seg>&#xd;
       </tuv>&#xd;
