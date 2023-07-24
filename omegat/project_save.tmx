@@ -13,6 +13,14 @@
         <seg>Coquilles d'huitres</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The oyster</seg>
+      </tuv>
+      <tuv lang="fr" changeid="ad" changedate="20230724T155036Z" creationid="ad" creationdate="20230724T155036Z">
+        <seg>L'huitre</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
