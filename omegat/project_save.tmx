@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_ffdb98dd7" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.2_0_a9414daaa" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11,14 +11,6 @@
       </tuv>
       <tuv lang="fr" changeid="from-git-auto" changedate="20230503T143548Z" creationid="souto" creationdate="20230503T143548Z">
         <seg>Coquilles d'huitres</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>The oyster</seg>
-      </tuv>
-      <tuv lang="fr" changeid="ad" changedate="20230724T155036Z" creationid="ad" creationdate="20230724T155036Z">
-        <seg>L'huitre</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
