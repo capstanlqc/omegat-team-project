@@ -1,14 +1,13 @@
-3/27/23, 4:15 PM
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
-Total:           	      68	  701	                   4382	                  4973	     1	
-Remaining:       	      67	  700	                   4362	                  4953	     1	
-Unique:          	      64	  680	                   4291	                  4867	     1	
-Unique Remaining:	      63	  679	                   4271	                  4847	     1	
+Total:           	       3	    9	                     40	                    46	     1	
+Remaining:       	       2	    7	                     28	                    33	     1	
+Unique:          	       3	    9	                     40	                    46	     1	
+Unique Remaining:	       2	    7	                     28	                    33	     1	
 
 
 Individual File Statistics:
 
-File Name    	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
-readme_fr.txt	            68	                67	             64	                       63	        701	            700	         680	                   679	                         4382	                             4362	                          4291	                                    4271	                        4973	                            4953	                         4867	                                   4847	
+File Name  	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+oyster.html	             3	                 2	              3	                        2	          9	              7	           9	                     7	                           40	                               28	                            40	                                      28	                          46	                              33	                           46	                                     33	
